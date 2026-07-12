@@ -1,10 +1,9 @@
 #Hi, I'm Dushica 👋
 
 🎓 Computer Science & Engineering student at FCSE - Skopje
+
 💻 Interested in:
-- Software Engineering
-- Web Development
-- Backend Development
+- Software Engineering, Web Development, Backend Development
 
 ## Technologies and Tools
 
