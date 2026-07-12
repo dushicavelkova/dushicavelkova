@@ -1,16 +1,32 @@
-## Hi there 👋
+#Hi, I'm Dushica 👋
 
-<!--
-**dushicavelkova/dushicavelkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering student at FCSE - Skopje
+💻 Interested in:
+- Software Engineering
+- Web Development
+- Backend Development
 
-Here are some ideas to get you started:
+## Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programing Languages
+
+- Java
+- C#
+- Python
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Kubernetes
+
+## Currently
+- Improving my software engineering skills
+- Building personal and university projects
+- Looking for a software engineering internship
