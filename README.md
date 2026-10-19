@@ -9,7 +9,7 @@
 ### Programing Languages
 
 - Java
-- C#
+- C++, C#
 - Python
 - JavaScript
 
